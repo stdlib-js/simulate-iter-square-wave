@@ -71,7 +71,7 @@ where `τ` is the period, `a` is the amplitude, and `φ` is the phase offset.
 ## Usage
 
 ```javascript
-import iterSquareWave from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-square-wave@esm/index.mjs';
+import iterSquareWave from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-square-wave@v0.2.1-esm/index.mjs';
 ```
 
 #### iterSquareWave( \[options] )
@@ -242,7 +242,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterSquareWave from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-square-wave@esm/index.mjs';
+import iterSquareWave from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-square-wave@v0.2.1-esm/index.mjs';
 
 // Create an iterator:
 var opts = {
